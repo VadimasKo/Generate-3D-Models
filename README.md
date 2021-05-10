@@ -10,4 +10,5 @@ In this repository I post python code which generates 3D models in ".off"format.
     * Optionally, the RGB values for the face color can follow the elements of the faces.
   
   Cube example:
-    
+    file:///home/broom/Pictures/cubeOFF.png
+    file:///home/broom/Pictures/cube3D.png
