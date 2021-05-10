@@ -9,7 +9,10 @@ In this repository I post python code which generates 3D models in ".off"format.
   * List of faces: number of vertices, followed by the indexes of the composing vertices, in order (indexed from zero).
     * Optionally, the RGB values for the face color can follow the elements of the faces.
   
-  Cube example:
-    ![cubeOFF](https://user-images.githubusercontent.com/54241089/117651984-488a4300-b19b-11eb-9d0f-c873150abf7c.png)
-    ![cube3D](https://user-images.githubusercontent.com/54241089/117651973-4627e900-b19b-11eb-95ee-3712f6e1c834.png)
+ ### Cube example:
+ 
+![cubeOFF](https://user-images.githubusercontent.com/54241089/117652325-b6366f00-b19b-11eb-83c3-a5d6d1662bdc.png)
+
+![cube3D](https://user-images.githubusercontent.com/54241089/117652333-b9315f80-b19b-11eb-8f91-819350e166d1.png)
+
 
